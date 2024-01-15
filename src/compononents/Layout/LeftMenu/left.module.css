@@ -1,0 +1,21 @@
+.blockList {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+.blockLink {
+  text-decoration: none;
+}
+.blockLink li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blockLink li img {
+  margin-right: 10px;
+}
+.blockLogo {
+  flex-direction: column;
+  width: 100px;
+  height: 100px;
+}/*# sourceMappingURL=left.module.css.map */

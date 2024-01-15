@@ -1,0 +1,11 @@
+.cont {
+    display: flex;
+    &City{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+    &Pay{
+       display: flex; 
+    }
+}

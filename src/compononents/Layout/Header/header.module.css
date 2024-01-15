@@ -1,0 +1,11 @@
+.cont {
+  display: flex;
+}
+.contCity {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.contPay {
+  display: flex;
+}/*# sourceMappingURL=header.module.css.map */
